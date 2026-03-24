@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/francis23sousa1-ops/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="Globo" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Globo.png" group-title="🕘️Update time",2026-03-24 18:27:54
+#EXTINF:-1 tvg-id="1" tvg-name="Globo" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Globo.png" group-title="🕘️Update time",2026-03-24 18:35:41
 https://stream1.freetv.fun/band-sports-3.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Band" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Band.png" group-title="📺 TV Aberta",Band
 https://stream1.freetv.fun/band-sports-3.m3u8
