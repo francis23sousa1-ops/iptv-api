@@ -1,5 +1,5 @@
 🕘️Update time,#genre#
-2026-03-24 18:23:58,https://stream1.freetv.fun/band-sports-3.m3u8
+2026-03-24 18:27:54,https://stream1.freetv.fun/band-sports-3.m3u8
 
 📺 TV Aberta,#genre#
 Band,https://stream1.freetv.fun/band-sports-3.m3u8
@@ -50,9 +50,9 @@ National Geographic,https://hls-gateway.vpstv.net/streams/476874.m3u8
 CNN Brasil,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 CNN Brasil,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/0.m3u8
 CNN Brasil,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/1.m3u8
-CNN Brasil,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/2.m3u8
-CNN Brasil,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/3.m3u8
 CNN Brasil,https://jmp2.uk/sam-GBBD8000016N.m3u8
+CNN Brasil,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+CNN Brasil,https://hls-gateway.vpstv.net/streams/709560.m3u8
 
 🧸 Infantil,#genre#
 Cartoon Network,https://hls-gateway.vpstv.net/streams/709541.m3u8

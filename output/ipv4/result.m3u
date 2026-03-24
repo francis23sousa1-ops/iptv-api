@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/francis23sousa1-ops/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="Globo" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Globo.png" group-title="🕘️Update time",2026-03-24 18:23:58
+#EXTINF:-1 tvg-id="1" tvg-name="Globo" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Globo.png" group-title="🕘️Update time",2026-03-24 18:27:54
 http://104.250.145.76/livehttpplay?channel_id=23356
 #EXTINF:-1 tvg-id="2" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
 http://104.250.145.76/livehttpplay?channel_id=23356
@@ -13,7 +13,3 @@ https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/0.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
 https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/1.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
-https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/2.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
-https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/3.m3u8

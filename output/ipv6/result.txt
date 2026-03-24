@@ -1,5 +1,5 @@
 🕘️Update time,#genre#
-2026-03-24 18:23:58,https://stream1.freetv.fun/band-sports-3.m3u8
+2026-03-24 18:27:54,https://stream1.freetv.fun/band-sports-3.m3u8
 
 📺 TV Aberta,#genre#
 Band,https://stream1.freetv.fun/band-sports-3.m3u8

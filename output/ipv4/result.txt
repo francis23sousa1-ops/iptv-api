@@ -1,5 +1,5 @@
 🕘️Update time,#genre#
-2026-03-24 18:23:58,http://104.250.145.76/livehttpplay?channel_id=23356
+2026-03-24 18:27:54,http://104.250.145.76/livehttpplay?channel_id=23356
 
 📺 TV Aberta,#genre#
 
@@ -14,7 +14,5 @@ History,http://37.27.111.214:8080/live/27/hls.m3u8
 CNN Brasil,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 CNN Brasil,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/0.m3u8
 CNN Brasil,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/1.m3u8
-CNN Brasil,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/2.m3u8
-CNN Brasil,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/3.m3u8
 
 🧸 Infantil,#genre#
