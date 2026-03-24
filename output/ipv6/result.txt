@@ -1,141 +1,67 @@
 🕘️Update time,#genre#
-2026-03-24 18:12:10,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+2026-03-24 18:23:58,https://stream1.freetv.fun/band-sports-3.m3u8
 
-📺央视频道,#genre#
-CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
-CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
-CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
-CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221226163/index.m3u8
-CCTV-2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
-CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
-CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
-CCTV-4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
-CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
-CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
-CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2
-CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
-CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8
-CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
-CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221226143/index.m3u8
-CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221226137/index.m3u8
-CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
-CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
-CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
-CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
-CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8
-CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
-CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
-CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
-CCTV-13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
-CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
-CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
-CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
-CCTV-16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
-CCTV-16,https://t.freetv.fun/live/cctv16-5.php
+📺 TV Aberta,#genre#
+Band,https://stream1.freetv.fun/band-sports-3.m3u8
+Band,https://stream1.freetv.fun/band-news-1.m3u8
+Band,https://stream1.freetv.fun/band-news-2.ctv
 
-📡卫视频道,#genre#
-广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
-广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
-广东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
-浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
-浙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
-湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
-湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
-湖南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2
-北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
-北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
-北京卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
-湖北卫视,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
-湖北卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
-黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
-黑龙江卫视,https://hls-gateway.vpstv.net/streams/708854.m3u8
-黑龙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
-安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
-安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
-安徽卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-重庆卫视,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
-重庆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
-东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
-东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
-东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
-东方卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
-东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
-东南卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
-东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-东南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
-甘肃卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
-广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
-广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-广西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
-贵州卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
-海南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
-河北卫视,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
-河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
-河北卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
-河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-13.php
-吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
-吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
-吉林卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
-江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
-江苏卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
-江苏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
-江西卫视,https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8
-江西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ei6ZIpVizXlewg-YfGvH8dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
-辽宁卫视,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
-辽宁卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
-辽宁卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6qJH8Fd-zgCGx3P-Ce86cA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi.php
-内蒙古卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-宁夏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-宁夏卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226454/index.m3u8
-青海卫视,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
-青海卫视,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
-青海卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
-山东卫视,https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
-山东卫视,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
-山东卫视,https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
-山东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-山西卫视,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
-山西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
-陕西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
-四川卫视,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
-四川卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
-深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
-深圳卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
-天津卫视,https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
-天津卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-天津卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8
-天津卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226459/index.m3u8
-西藏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-新疆卫视,http://goo.bkpcp.top/mg/xjws
-新疆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-新疆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8
-云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
-云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
-云南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+⚽ Esportes,#genre#
+ESPN,https://hls-gateway.vpstv.net/streams/709282.m3u8
+ESPN,https://hls-gateway.vpstv.net/streams/709400.m3u8
+ESPN,https://hls-gateway.vpstv.net/streams/709401.m3u8
+ESPN 2,https://hls-gateway.vpstv.net/streams/709291.m3u8
+
+🎬 Filmes e Séries,#genre#
+HBO,https://hls-gateway.vpstv.net/streams/476278.m3u8
+HBO,https://hls-gateway.vpstv.net/streams/476972.m3u8
+HBO,https://hls-gateway.vpstv.net/streams/476973.m3u8
+HBO,https://hls-gateway.vpstv.net/streams/476634.m3u8
+HBO,https://hls-gateway.vpstv.net/streams/476633.m3u8
+HBO,https://hls-gateway.vpstv.net/streams/476974.m3u8
+HBO 2,https://hls-gateway.vpstv.net/streams/477732.m3u8
+Warner Channel,https://hls-gateway.vpstv.net/streams/708986.m3u8
+Warner Channel,https://hls-gateway.vpstv.net/streams/602243.m3u8
+Star Channel,https://hls-gateway.vpstv.net/streams/708993.m3u8
+Star Channel,https://hls-gateway.vpstv.net/streams/477814.m3u8
+Star Channel,https://goodiptv.club/douyu/9191006
+Universal TV,https://xumo-xumoent-ch839-d5ey0.fast.nbcuni.com/live/master.m3u8
+TNT,https://hls-gateway.vpstv.net/streams/709389.m3u8
+TNT,https://hls-gateway.vpstv.net/streams/709390.m3u8
+TNT,https://hls-gateway.vpstv.net/streams/709391.m3u8
+TNT,https://hls-gateway.vpstv.net/streams/709392.m3u8
+TNT,https://hls.iill.top/api/TNT-Sports-1/index.m3u8
+TNT,https://hls.iill.top/api/TNT-Sports-2/index.m3u8
+
+📰 Notícias e Docs,#genre#
+Discovery Channel,https://hls-gateway.vpstv.net/streams/708899.m3u8
+Discovery Channel,https://hls-gateway.vpstv.net/streams/708900.m3u8
+Discovery Channel,https://hls-gateway.vpstv.net/streams/708903.m3u8
+Discovery Channel,https://hls-gateway.vpstv.net/streams/477713.m3u8
+Discovery Channel,https://hls-gateway.vpstv.net/streams/476648.m3u8
+Discovery Channel,https://hls-gateway.vpstv.net/streams/709074.m3u8
+History,https://hls-gateway.vpstv.net/streams/708942.m3u8
+History,https://hls-gateway.vpstv.net/streams/477710.m3u8
+History,https://hls-gateway.vpstv.net/streams/477648.m3u8
+History,https://hls-gateway.vpstv.net/streams/709599.m3u8
+History,https://hls-gateway.vpstv.net/streams/602207.m3u8
+History,https://tv.iill.top/4gtv/4gtv-live026
+National Geographic,https://hls-gateway.vpstv.net/streams/476874.m3u8
+CNN Brasil,https://jmp2.uk/sam-GBBD8000016N.m3u8
+CNN Brasil,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+CNN Brasil,https://hls-gateway.vpstv.net/streams/709560.m3u8
+CNN Brasil,https://hls-gateway.vpstv.net/streams/709107.m3u8
+CNN Brasil,https://hls-gateway.vpstv.net/streams/709575.m3u8
+CNN Brasil,https://hls-gateway.vpstv.net/streams/476863.m3u8
+
+🧸 Infantil,#genre#
+Cartoon Network,https://hls-gateway.vpstv.net/streams/709541.m3u8
+Cartoon Network,https://hls-gateway.vpstv.net/streams/605053.m3u8
+Cartoon Network,https://hls-gateway.vpstv.net/streams/709598.m3u8
+Cartoon Network,https://hls-gateway.vpstv.net/streams/709450.m3u8
+Nickelodeon,https://hls-gateway.vpstv.net/streams/477025.m3u8
+Nickelodeon,https://hls-gateway.vpstv.net/streams/605088.m3u8
+Nickelodeon,https://hls-gateway.vpstv.net/streams/709545.m3u8
+Nickelodeon,https://hls-gateway.vpstv.net/streams/605054.m3u8
+Nickelodeon,https://hls-gateway.vpstv.net/streams/605086.m3u8
+Nickelodeon,https://hls-gateway.vpstv.net/streams/477714.m3u8

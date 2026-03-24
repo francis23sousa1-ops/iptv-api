@@ -2,16 +2,16 @@
 # Suporta definir User-Agent (UA): https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-
 # https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 # https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 # https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 # https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 # https://live.hacks.tools/tv/iptv6.txt
 # https://live.hacks.tools/tv/iptv4.txt
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+
+# https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 
 [WHITELIST]
 # Abaixo está a lista branca das fontes de assinatura; as fontes incluídas não participarão do teste de desempenho e serão sempre mantidas no topo dos resultados.
